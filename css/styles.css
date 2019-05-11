@@ -1,9 +1,17 @@
+body {
+  background: linear-gradient(black, white);
+}
+
 img {
   width: 30%;
   height: 350px
   float: left;
   margin-top: 25px;
   margin-bottom: 25px;
+}
+
+span {
+  font-weight: bold;
 }
 
 .column {
@@ -14,4 +22,9 @@ img {
   margin: 5px;
   padding: 5px;
   float: left;
+}
+
+.badge {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
