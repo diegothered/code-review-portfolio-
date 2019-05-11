@@ -1,0 +1,17 @@
+img {
+  width: 30%;
+  height: 350px
+  float: left;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.column {
+  width: 30%;
+  height: 270px;
+  border-style: solid;
+  border-color: blue;
+  margin: 5px;
+  padding: 5px;
+  float: left;
+}
